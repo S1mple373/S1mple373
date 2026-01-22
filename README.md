@@ -3,7 +3,7 @@
 ## Hello!
 
 
-[![Codewars](https://www.codewars.com/users/S1mple373/badges/small(https://www.codewars.com/users/S1mple373)
+[![Codewars](https://www.codewars.com/users/DanilaBezhin/badges/small)](https://www.codewars.com/users/DanilaBezhin)
 
 
 
