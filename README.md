@@ -13,6 +13,8 @@ Hi im Alex...
 - badly
 - my photo->
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzkzZDFkMmxsOHNycnZpaDZiaDZycGlqOXNnOW5oY25uaHpubzBjNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/jvsiDyRgdCUudCzTml/giphy.gif" alt="gif" width="300"/>
+
+
 ---
 
 ### 🐍 Python Core
