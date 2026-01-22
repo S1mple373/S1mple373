@@ -58,3 +58,16 @@ Hi im Alex...
 - первый пункт
 - второй пункт
 - третий
+
+
+
+
+
+
+
+
+--- 
+
+## 📊 Activity 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaBezhin&layout=compact&theme=github_dark&cache_seconds=3600&v=2)
