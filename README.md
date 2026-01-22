@@ -4,7 +4,13 @@
 
 
 [![Codewars](https://www.codewars.com/users/S1mple373/badges/small)](https://www.codewars.com/users/S1mple373)
+---
 
+## About my 
+Hi im Alex...
+- best
+- sily
+- badly
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzkzZDFkMmxsOHNycnZpaDZiaDZycGlqOXNnOW5oY25uaHpubzBjNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/jvsiDyRgdCUudCzTml/giphy.gif" alt="gif" width="300"/>
 
 
