@@ -61,13 +61,17 @@ Hi im Alex...
 
 
 
-
-
-
-
-
 --- 
 
 ## 📊 Activity 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S1mple373&layout=compact&theme=github_dark&cache_seconds=3600&v=2)
+
+
+
+--- 
+
+
+## 📫 Contacts 
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/@Alex_Fel1x) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
